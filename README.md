@@ -42,15 +42,15 @@ Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g.,
 
 ## Tech Stack Strategy
 **To meet the client's requirement of zero operational expenditure, the following stack was integrated:**
-#### * Primary Database: Structured Cloud Spreadsheets.
-#### * Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
-#### * Automation Middleware: Visual Logic Flow Engine.
-#### * Generative AI: LLM API with high-frequency free-tier throughput.
+* Primary Database: Structured Cloud Spreadsheets.
+*  * Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
+* Automation Middleware: Visual Logic Flow Engine.
+* Generative AI: LLM API with high-frequency free-tier throughput.
 
 ## Business Impact
-#### * Efficiency: Reduced manual outreach preparation time by 95%.
-#### * Relationship Value: Increased client "Top-of-Mind" awareness through personalized, non-generic interaction.
-#### * Cost Savings: Saved approximately $1,200/year in CRM and automation subscription fees by optimizing free-tier ecosystems.
+*  Efficiency: Reduced manual outreach preparation time by 95%.
+*  Relationship Value: Increased client "Top-of-Mind" awareness through personalized, non-generic interaction.
+*  Cost Savings: Saved approximately $1,200/year in CRM and automation subscription fees by optimizing free-tier ecosystems.
 
 ### Implementation Note
 * This system was developed as freelance project for client to help manage customer relashionship. While the source logic is proprietary, the architectural patterns demonstrate the power of integrating Generative AI with Low-Code frameworks to create high-value business tools at zero cost.
