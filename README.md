@@ -41,7 +41,7 @@ Model: Generative AI (Large Language Model).
 Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g., "enjoys cycling") and transforms them into hyper-personalized, professional birthday greetings that reflect the unique relationship between the sender and the recipient.
 
 ## Tech Stack Strategy
-** To meet the client's requirement of zero operational expenditure, the following stack was integrated: **
+**To meet the client's requirement of zero operational expenditure, the following stack was integrated:**
 #### Primary Database: Structured Cloud Spreadsheets.
 #### Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
 #### Automation Middleware: Visual Logic Flow Engine.
