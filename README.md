@@ -22,35 +22,30 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 **The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency.**
 
 ### 1. The Adaptive UI (Mobile Interface)
-Framework: Cloud-native Low-Code Environment.
-
-Function: Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
-
-Key Feature: Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
+  #### Framework: Cloud-native Low-Code Environment.
+  #### Function: Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
+  #### Key Feature: Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
 
 ### 2. The Logic & Middleware Layer
-Protocol: Event-driven automation.
-
-Function: This layer acts as the system's "central nervous system," monitoring the database for specific triggers and managing the bi-directional flow of data between the AI and the communication suite.
-
-Security: Implements "Sent-State" verification to prevent duplicate outreach.
+  #### Protocol: Event-driven automation.
+  #### Function: This layer acts as the system's "central nervous system," monitoring the database for specific triggers and managing the bi-directional flow of data between the AI and the communication suite.
+  #### Security: Implements "Sent-State" verification to prevent duplicate outreach.
 
 ### 3. The Intelligence Engine (LLM Integration)
-Model: Generative AI (Large Language Model).
-
-Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g., "enjoys cycling") and transforms them into hyper-personalized, professional birthday greetings that reflect the unique relationship between the sender and the recipient.
+  #### Model: Generative AI (Large Language Model).
+  #### Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g., "enjoys cycling") and transforms them into hyper-personalized, professional birthday greetings that reflect the unique relationship between the sender and the recipient.
 
 ## Tech Stack Strategy
 **To meet the client's requirement of zero operational expenditure, the following stack was integrated:**
-* Primary Database: Structured Cloud Spreadsheets.
-* Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
-* Automation Middleware: Visual Logic Flow Engine.
-* Generative AI: LLM API with high-frequency free-tier throughput.
+  #### Primary Database: Structured Cloud Spreadsheets.
+  #### Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
+  #### Automation Middleware: Visual Logic Flow Engine.
+  #### Generative AI: LLM API with high-frequency free-tier throughput.
 
 ## Business Impact
-*  Efficiency: Reduced manual outreach preparation time by 95%.
-*  Relationship Value: Increased client "Top-of-Mind" awareness through personalized, non-generic interaction.
-*  Cost Savings: Saved approximately $1,200/year in CRM and automation subscription fees by optimizing free-tier ecosystems.
+  #### Efficiency: Reduced manual outreach preparation time by 95%.
+  #### Relationship Value: Increased client "Top-of-Mind" awareness through personalized, non-generic interaction.
+  #### Cost Savings: Saved approximately $1,200/year in CRM and automation subscription fees by optimizing free-tier ecosystems.
 
 ### Implementation Note
 * This system was developed as freelance project for client to help manage customer relashionship. While the source logic is proprietary, the architectural patterns demonstrate the power of integrating Generative AI with Low-Code frameworks to create high-value business tools at zero cost.
