@@ -22,9 +22,9 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 **The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency.**
 
 ### 1. The Adaptive UI (Mobile Interface)
-  #### Framework: Cloud-native Low-Code Environment.
-  #### Function: Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
-  #### Key Feature: Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
+  - Framework: Cloud-native Low-Code Environment.
+  - Function: Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
+  - Key Feature: Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
 
 ### 2. The Logic & Middleware Layer
   #### Protocol: Event-driven automation.
