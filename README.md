@@ -11,7 +11,13 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 * Integrate a mobile-first interface with a scheduled automation engine to track and monitor birthdays
 * Ensures consistent "top-of-mind" engagement without manual overhead or monthly subscription fees.
 
-  
+## Data Privacy & Sample Dataset
+#### To maintain the highest standards of data privacy and confidentiality, please note:
+
+##### Dummy Data: All client names, contact details, and personal notes featured in screenshots or documentation are entirely synthetic. They do not represent real individuals or existing business relationships.
+
+##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
+
 ## System Architecture :
 ** The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency. **
 
@@ -47,4 +53,7 @@ Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g.,
 #### Cost Savings: Saved approximately $1,200/year in CRM and automation subscription fees by optimizing free-tier ecosystems.
 
 ### Implementation Note
-This system was developed as a bespoke solution for a client engagement project. While the source logic is proprietary, the architectural patterns demonstrate the power of integrating Generative AI with Low-Code frameworks to create high-value business tools at zero cost.
+* This system was developed as freelance project for client to help manage customer relashionship. While the source logic is proprietary, the architectural patterns demonstrate the power of integrating Generative AI with Low-Code frameworks to create high-value business tools at zero cost.
+* **Security:** This repository does not contain any live API keys, webhook URLs, or sensitive database credentials. All integration endpoints have been masked or removed from the public codebase.
+* **Dummy Data:** All client names, contact details, and personal notes featured in screenshots or documentation are entirely synthetic. They do not represent real individuals or existing business relationships.
+* **No Real References:** Any similarity to actual persons, living or dead, or real-world events is purely coincidental.
