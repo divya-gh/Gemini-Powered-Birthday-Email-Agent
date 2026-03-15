@@ -19,7 +19,7 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
 
 ## System Architecture :
-** The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency. **
+**The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency.**
 
 ### 1. The Adaptive UI (Mobile Interface)
 Framework: Cloud-native Low-Code Environment.
