@@ -43,7 +43,7 @@ Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g.,
 ## Tech Stack Strategy
 **To meet the client's requirement of zero operational expenditure, the following stack was integrated:**
 * Primary Database: Structured Cloud Spreadsheets.
-*  * Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
+* Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
 * Automation Middleware: Visual Logic Flow Engine.
 * Generative AI: LLM API with high-frequency free-tier throughput.
 
