@@ -23,21 +23,21 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 ### 1. The Adaptive UI (Mobile Interface)
   - **Framework:** Cloud-native Low-Code Environment.
-  - Function: Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
-  - Key Feature: Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
+  - **Function:** Serves as the primary data entry point for client bios, personal interests, and historical project data (e.g., software prototypes like SkyCast).
+  - **Key Feature:** Dynamic filtering for "Upcoming Birthdays" using year-neutral date logic.
 
 ### 2. The Logic & Middleware Layer
-  #### Protocol: Event-driven automation.
-  #### Function: This layer acts as the system's "central nervous system," monitoring the database for specific triggers and managing the bi-directional flow of data between the AI and the communication suite.
-  #### Security: Implements "Sent-State" verification to prevent duplicate outreach.
+  - **Protocol:** Event-driven automation.
+  - **Function:** This layer acts as the system's "central nervous system," monitoring the database for specific triggers and managing the bi-directional flow of data between the AI and the communication suite.
+  - **Security:** Implements "Sent-State" verification to prevent duplicate outreach.
 
 ### 3. The Intelligence Engine (LLM Integration)
-  #### Model: Generative AI (Large Language Model).
-  #### Function: Performs "Contextual Synthesis." It analyzes unstructured notes (e.g., "enjoys cycling") and transforms them into hyper-personalized, professional birthday greetings that reflect the unique relationship between the sender and the recipient.
+  - **Model:** Generative AI (Large Language Model).
+  - **Function:** Performs "Contextual Synthesis." It analyzes unstructured notes (e.g., "enjoys cycling") and transforms them into hyper-personalized, professional birthday greetings that reflect the unique relationship between the sender and the recipient.
 
 ## Tech Stack Strategy
 **To meet the client's requirement of zero operational expenditure, the following stack was integrated:**
-  #### Primary Database: Structured Cloud Spreadsheets.
+  - #### Primary Database: Structured Cloud Spreadsheets.
   #### Mobile Framework: Secure Enterprise App Container (Prototype Deployment).
   #### Automation Middleware: Visual Logic Flow Engine.
   #### Generative AI: LLM API with high-frequency free-tier throughput.
