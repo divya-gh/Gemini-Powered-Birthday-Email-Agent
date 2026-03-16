@@ -1,4 +1,4 @@
-# birthdayBotAI: Automated Client Engagement System
+# BirthdayBot: AI Client Engagement System
 ## Project Overview
 This repository showcases a custom-built Automated Client Relationship Management (CRM) Extension designed for a professional service provider. The system was engineered to solve a specific business challenge: maintaining a "high-touch" personal connection with a growing network of past clients without increasing administrative overhead.
 
@@ -17,6 +17,16 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##### Dummy Data: All client names, contact details, and personal notes featured in screenshots or documentation are entirely synthetic. They do not represent real individuals or existing business relationships.
 
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
+
+# Need a solution?
+## Custom AI-Automation Solutions
+> **Looking for a similar system for your business?** I specialize in building custom, zero-cost-to-maintain AI tools tailored to specific professional workflows. If you’d like me to build a solution like this for your organization, let’s connect!
+> 
+> [📩 Contact Me via LinkedIn](www.linkedin.com/in/divya-shetty-k) | [📧 Send an Email](mailto:divyashettyk@gmail.com)
+---
+
+# PersonalizeAI: Automated Client Engagement System
+... (rest of your documentation)
 
 ## System Architecture :
 **The solution utilizes a "Decoupled Architecture," separating the user interface, the logic layer, and the intelligence engine to ensure stability and cost-efficiency.**
