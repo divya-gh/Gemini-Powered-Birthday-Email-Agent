@@ -22,7 +22,7 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##             Watch the demo:                                                         |          Watch the demo:
 <img src="./assets/birthdaybotAI.gif" controls width="200" height ="400"> |  <img src="./assets/Drafted_email.jpeg" height="300" width="300">
 
-<table align="right">
+<table align="left-enter">
   <tr>
     <td align="center" style="padding-right: 30px;">
       <h3>Watch the Demo</h3>
