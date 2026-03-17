@@ -21,16 +21,19 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <h3>Watch the Demo</h3>
-      <video src="./assets/BirthdayBot_AI.mp4" controls width="300"></video>
+      <a href="assets/BirthdayBot_AI.mp4">
+        ▶️ Click to watch the demo video
+      </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <h3>AI‑Generated Email</h3>
-      <img src="./assets/Drafted_email.jpg" width="300"/>
+      <img src="assets/Drafted_email.jpg" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 
