@@ -29,7 +29,7 @@ This repository showcases a custom-built Automated Client Relationship Managemen
     </td>
     <td align="center" width="50%">
       <h3>AI‑Generated Email</h3>
-      <img src="assets/Drafted_email.jpg" width="300"/>
+      <img src="./assets/Drafted_email.jpg" width="300"/>
     </td>
   </tr>
 </table>
