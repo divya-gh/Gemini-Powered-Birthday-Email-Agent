@@ -20,10 +20,16 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
 ## Watch the demo:
-<video src="./assets/birthdaybotAI.mp4" controls width="400"></video>
+<video src="./assets/birthdaybotAI.gif" controls width="400"></video>
 
-
+## Watch the demo:
 <img src="./assets/Drafted_email.jpeg" height="300" width="300">
+
+<div style="display: flex; gap: 16px;">
+  <img src="assets/BirthdayBot_AI.gif" width="350" />
+  <img src="assets/Drafted_email.jpg" width="350" />
+</div>
+
 
 # Need a solution?
 ## Custom AI-Automation Solutions
