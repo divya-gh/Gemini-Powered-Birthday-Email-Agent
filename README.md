@@ -24,13 +24,13 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 <table align="center">
   <tr>
-    <td align="center" style="padding-right: 30px;">
+    <td align="center" style="padding-right: 60px;">
       <h3>Watch the Demo</h3>
       <img src="./assets/birthdaybotAI.gif" width="250" height="400">
     </td>
     <td align="center" style="padding-left: 30px;">
       <h3>AI‑Generated Email</h3>
-      <img src="./assets/Drafted_email.jpeg" width="250" height="300">
+      <img src="./assets/Drafted_email.jpeg" width="250" height="400">
     </td>
   </tr>
 </table>
