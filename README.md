@@ -4,7 +4,8 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 ## Business Requirement : 
 * Build a sophisticated, AI-driven outreach engine with zero recurring software licensing costs, leveraging enterprise-grade tools within their community/free tiers.
-* Develop a zero-cost, automated relationship management system app that streamlines personalized client outreach.
+* Develop a robust, scalable, automated relationship management system app that streamlines personalized client outreach.
+* Include features to update, track data and emails.
 
 ## Objective :
 * leverage Generative AI to synthesize client-specific notes into meaningful birthday communications, delivering them as ready-to-send drafts
