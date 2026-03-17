@@ -20,7 +20,7 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
 
-<table align="left">
+<table align="left-center">
   <tr>
     <td align="center" style="padding-right: 50px;">
       <h3>Watch the Demo</h3>
