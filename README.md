@@ -19,11 +19,8 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##### Dummy Data: All client names, contact details, and personal notes featured in screenshots or documentation are entirely synthetic. They do not represent real individuals or existing business relationships.
 
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
-## Watch the demo:
-<img src="./assets/birthdaybotAI.gif" controls width="200" height ="400">
-
-## Watch the demo:
-<img src="./assets/Drafted_email.jpeg" height="300" width="300">
+##             Watch the demo:                                                         |          Watch the demo:
+<img src="./assets/birthdaybotAI.gif" controls width="200" height ="400"> |  <img src="./assets/Drafted_email.jpeg" height="300" width="300">
 
 <div style="display: flex; gap: 16px;">
   <img src="./assets/BirthdayBot_AI.gif" width="350" />
