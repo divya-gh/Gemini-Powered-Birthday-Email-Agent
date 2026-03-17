@@ -24,7 +24,7 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 <table align="center">
   <tr>
-    <td align="center" style="padding-right: 60px;">
+    <td align="center" style="padding-right: 30px;">
       <h3>Watch the Demo</h3>
       <img src="./assets/birthdaybotAI.gif" width="250" height="400">
     </td>
