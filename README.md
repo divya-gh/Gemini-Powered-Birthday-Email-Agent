@@ -22,10 +22,17 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 ##             Watch the demo:                                                         |          Watch the demo:
 <img src="./assets/birthdaybotAI.gif" controls width="200" height ="400"> |  <img src="./assets/Drafted_email.jpeg" height="300" width="300">
 
-<div style="display: flex; gap: 16px;">
-  <img src="./assets/BirthdayBot_AI.gif" width="350" />
-  <img src="./assets/Drafted_email.jpg" width="350" />
+<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <div>
+    <h3>Watch the Demo</h3>
+    <img src="./assets/birthdaybotAI.gif" width="250" height="400">
+  </div>
+  <div>
+    <h3>AI‑Generated Email</h3>
+    <img src="./assets/Drafted_email.jpeg" width="250" height="300">
+  </div>
 </div>
+
 
 
 # Need a solution?
