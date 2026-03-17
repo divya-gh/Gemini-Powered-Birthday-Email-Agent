@@ -23,11 +23,11 @@ This repository showcases a custom-built Automated Client Relationship Managemen
   <tr>
     <td align="center">
       <h3>Watch the Demo</h3>
-      <video src="assets/BirthdayBot_AI.mp4" controls width="300"></video>
+      <video src="./assets/BirthdayBot_AI.mp4" controls width="300"></video>
     </td>
     <td align="center">
       <h3>AI‑Generated Email</h3>
-      <img src="assets/Drafted_email.jpg" width="300"/>
+      <img src="./assets/Drafted_email.jpg" width="300"/>
     </td>
   </tr>
 </table>
