@@ -1,5 +1,5 @@
 # BirthdayBot: AI Client Engagement System
-###   - Automated, Personalized Birthday Outreach Mobile App— Zero Cost, Zero Effort
+  ### Automated, Personalized Birthday Outreach Mobile App— Zero Cost, Zero Effort
 ## Project Overview
 This repository showcases a custom-built Automated Client Relationship Management (CRM) Extension designed for a professional service provider. The system was engineered to solve a specific business challenge: maintaining a "high-touch" personal connection with a growing network of past clients without increasing administrative overhead.
 
@@ -20,7 +20,10 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 
 ##### No Real References: Any similarity to actual persons, living or dead, or real-world events is purely coincidental. 
 ## Watch the demo:
-<video src="assets/demo.mp4" controls width="600"></video>
+<video src="./assets/BirthdayBot_AI.mp4" controls width="400"></video>
+
+
+<img src="./assets/Drafted_email.jpeg" height="300" width="300">
 
 # Need a solution?
 ## Custom AI-Automation Solutions
