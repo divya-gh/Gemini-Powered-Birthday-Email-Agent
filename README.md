@@ -26,8 +26,8 @@ This repository showcases a custom-built Automated Client Relationship Managemen
 <img src="./assets/Drafted_email.jpeg" height="300" width="300">
 
 <div style="display: flex; gap: 16px;">
-  <img src="assets/BirthdayBot_AI.gif" width="350" />
-  <img src="assets/Drafted_email.jpg" width="350" />
+  <img src="./assets/BirthdayBot_AI.gif" width="350" />
+  <img src="./assets/Drafted_email.jpg" width="350" />
 </div>
 
 
