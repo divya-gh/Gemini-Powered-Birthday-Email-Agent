@@ -23,13 +23,13 @@ This repository showcases a custom-built Automated Client Relationship Managemen
   <tr>
     <td align="center" width="50%">
       <h3>Watch the Demo</h3>
-      <a href="assets/BirthdayBot_AI.mp4">
+      <a href="./assets/BirthdayBot_AI.mp4">
         ▶️ Click to watch the demo video
       </a>
     </td>
     <td align="center" width="50%">
       <h3>AI‑Generated Email</h3>
-      <img src="./assets/Drafted_email.jpg" width="300"/>
+      <img src="./assets/Drafted_email.jpeg" width="300"/>
     </td>
   </tr>
 </table>
